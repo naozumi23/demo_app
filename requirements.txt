@@ -1,0 +1,6 @@
+streamlit
+keras
+Pillow
+numpy
+pandas
+boto3
